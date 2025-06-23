@@ -16,4 +16,6 @@ I have designed this repository to show you everything you need to know to verif
 - Write clean code like a pro
 - Apply best practices 
 
+Mock API: https://jsonplaceholder.typicode.com/
+
 With this repository, I would like to show that have a solid understanding of React and am able to build real-world applications with React and TypeScript.
